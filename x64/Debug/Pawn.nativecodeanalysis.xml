@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\My projects\Chess Engine\ChessSdl2\Project1\Source\</FILEPATH>
+      <FILENAME>Pawn.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>Pawn::getPossibleMoves</FUNCTION>
+    <DECORATED>?getPossibleMoves@Pawn@@UEAA?AV?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@std@@AEAV?$vector@V?$vector@PEAVPiece@@V?$allocator@PEAVPiece@@@std@@@std@@V?$allocator@V?$vector@PEAVPiece@@V?$allocator@PEAVPiece@@@std@@@std@@@2@@3@@Z</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\My projects\Chess Engine\ChessSdl2\Project1\Source\</FILEPATH>
+      <FILENAME>Pawn.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>Pawn::getPossibleMoves</FUNCTION>
+    <DECORATED>?getPossibleMoves@Pawn@@UEAA?AV?$vector@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@std@@AEAV?$vector@V?$vector@PEAVPiece@@V?$allocator@PEAVPiece@@@std@@@std@@V?$allocator@V?$vector@PEAVPiece@@V?$allocator@PEAVPiece@@@std@@@std@@@2@@3@@Z</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

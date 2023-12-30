@@ -1,0 +1,13 @@
+﻿  Pawn.cpp
+  game.cpp
+E:\My projects\Chess Engine\ChessSdl2\Project1\Source\game.cpp(181,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\My projects\Chess Engine\ChessSdl2\Project1\Source\game.cpp(188,51): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\My projects\Chess Engine\ChessSdl2\Project1\Source\game.cpp(188,51): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\My projects\Chess Engine\ChessSdl2\Project1\Source\game.cpp(188,87): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\My projects\Chess Engine\ChessSdl2\Project1\Source\game.cpp(188,87): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\My projects\Chess Engine\ChessSdl2\Project1\Source\game.cpp(188,110): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\My projects\Chess Engine\ChessSdl2\Project1\Source\game.cpp(188,110): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\My projects\Chess Engine\ChessSdl2\Project1\Source\game.cpp(188,114): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+E:\My projects\Chess Engine\ChessSdl2\Project1\Source\game.cpp(188,114): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> E:\My projects\Chess Engine\ChessSdl2\x64\Debug\Project1.exe
